@@ -316,8 +316,8 @@ body{
     font-weight: 400;
 }
 .label2 p{
-    font-size:17px ;
-    font-weight: 100;
+    font-size:20px ;
+    font-weight: 200;
     color: white;   
 }
 .photo3 img{
@@ -411,20 +411,24 @@ body{
     font-size: 10px;  
 }
 .web{
-    width:240px;
-    height: 310px;
+    width:200px;
+    height: 350px;
     position: absolute;
     top: 12%;
     left: 20%; 
 }
 
 .wrapper .ps a{
-    margin-left: 0px;
+    margin-left: 40px;
     font-size: 10px;
 }
 .wrapper .acc a{
-    font-size: 10px;
-    
+    margin-left: 40px;
+    font-size: 10px;   
+}
+.wrapper .space{
+    color: grey;
+    margin-left: 20px;
 }
 .wrapper p{
     font-size: 18px;

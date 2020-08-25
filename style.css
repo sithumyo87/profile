@@ -219,7 +219,7 @@
 }
 .web{
     width: 430px;
-    height: 400px;
+    height: 450px;
     background: whitesmoke;
     position: absolute;
     top: 12%;
@@ -230,13 +230,15 @@
 .wrapper .ps a{
     color: gray;
     text-decoration: none;
-    float: left;
-    margin-left: 20px;
-    
+    margin-left: 50px;  
+}
+.wrapper .space{
+    color: grey;
+    margin-left: 50px;
 }
 .wrapper .acc a{
     color: lightcoral;
-    
+    margin-left: 50px;
 }
 .wrapper p{
     font-size: 29px;
